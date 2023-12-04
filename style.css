@@ -1,0 +1,17 @@
+.container, .container-fluid{
+    background-color: rgb(38, 107, 84);
+}
+.row{
+    background-color: blueviolet;
+    border: 1px solid black;
+}
+.col, .col-7, .col-auto{
+    background-color: rgb(146, 176, 161);
+    border: 1px solid black;
+}
+section{
+    margin-top: 60px;
+}
+.altura-300{
+    height: 200px;
+}
